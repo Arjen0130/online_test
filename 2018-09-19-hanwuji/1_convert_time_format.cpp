@@ -23,7 +23,7 @@ int main()
     Solution solution;
     string str;
     cin >> str;
-    if ('P' == str[8])
+    if ('P' == str[8] || 'p' == str[8])
     {
         int h = str[0] - '0';
         int l = str[1] - '0';
