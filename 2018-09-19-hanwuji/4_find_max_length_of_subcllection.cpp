@@ -27,6 +27,12 @@ using namespace std;
     1 < S[i] < 1e9
 输出：
     输出为一个数字，即集合 S 的最大长度。
+示例：
+    输入：
+        4 3
+        1 7 2 4
+    输出：
+        3
 */
 
 class Solution
